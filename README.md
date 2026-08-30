@@ -10,7 +10,7 @@
 
 <p>
   <a href="https://github.com/Neve77">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://github.com/Neve77/Neve77/blob/main/5dc5dc84ff5b8b6c55f888212a34ed7b.jpg?raw=true">
   </a>
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white">
