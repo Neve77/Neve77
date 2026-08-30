@@ -27,7 +27,7 @@
 <tr>
 <td width="180" align="center">
 
-<img src="https://skillicons.dev/icons?i=github" width="90"/>
+<img src="https://alphacoders.com/levi-ackerman-pfp" width="90"/>
 
 </td>
 <td>
