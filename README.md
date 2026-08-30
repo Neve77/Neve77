@@ -10,7 +10,7 @@
 
 <p>
   <a href="https://github.com/Neve77">
-    <img src="https://github.com/Neve77/Neve77/blob/main/5dc5dc84ff5b8b6c55f888212a34ed7b.jpg?raw=true">
+    <img src="">
   </a>
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -27,7 +27,7 @@
 <tr>
 <td width="180" align="center">
 
-<img src="https://alphacoders.com/levi-ackerman-pfp" width="90"/>
+<img src="https://github.com/Neve77/Neve77/blob/main/5dc5dc84ff5b8b6c55f888212a34ed7b.jpg?raw=true" width="90"/>
 
 </td>
 <td>
