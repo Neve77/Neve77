@@ -1,186 +1,57 @@
-<div align="center">
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm igor(Neve) ribeiro de mello</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:222222&height=220&section=header&text=Igor%20Ribeiro%20de%20Mello&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
-<h2>👋 Olá! Eu sou o Igor</h2>
+## 📌 About Me
+- 💡 <em>✏️ A sentence about you and what you do.</em>
 
-<p>
-  <b>Computer Science Student • Software Developer • Founder at Orqium</b>
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=neve77&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400" alt="neve77's GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=neve77&theme=nightowl&hide_border=true&cache_seconds=86400" alt="neve77's GitHub Streak" width="49%" />
 </p>
-
-<p>
-  <a href="https://github.com/Neve77">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/igor-mello-97b2b02a7/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
-</div>
-
----
-
-## 🔗 Know About Me
-
-<table>
-<tr>
-<td width="180" align="center">
-
-<img src="https://github.com/Neve77/Neve77/blob/main/5dc5dc84ff5b8b6c55f888212a34ed7b.jpg?raw=true" width="140" alt="Igor Ribeiro de Mello"/>
-
-</td>
-
-<td>
-
-### Hey there! I'm Igor 👋
-
-Sou estudante de **Ciência da Computação** e desenvolvedor focado em construir aplicações, sistemas e automações.
-
-Atualmente trabalho principalmente com:
-
-- 🌐 Desenvolvimento Web
-- ⚙️ APIs e sistemas
-- 🗄️ Bancos de dados
-- 🤖 Inteligência Artificial
-- 🚀 Automação de processos
-
-Também estou construindo a **Orqium**, com foco em software, automação e produtos digitais.
-
-**Objetivo:** transformar problemas reais em software simples, escalável e útil.
-
-</td>
-</tr>
-</table>
-
----
-
-## ⚡ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,cs,dotnet,javascript,typescript,react,nextjs,nodejs,python,postgresql,sqlite,supabase,docker,git,github&perline=8" alt="Tech Stack"/>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neve77&layout=compact&theme=nightowl&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=neve77&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="igor(Neve) ribeiro de mello's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=neve77&theme=nightowl&radius=10" alt="neve77's Activity Graph" />
 </p>
 
----
+## 🛠️ Languages & Tools
 
-## 🚀 Top Projects
+> ## Programming Languages
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="48" height="48" style="margin: 4px;" /></p>
 
-<table>
-<tr>
+> ## Frontend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="48" height="48" style="margin: 4px;" /></p>
 
-<td width="50%">
+> ## Backend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="48" height="48" style="margin: 4px;" /></p>
 
-### 🍽️ ComandaFlow
+> ## Database
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="48" height="48" style="margin: 4px;" /></p>
 
-Sistema para gerenciamento de restaurantes, incluindo:
+> ## DevOps & Cloud
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="48" height="48" style="margin: 4px;" /></p>
 
-- Comandas
-- Mesas
-- Produtos
-- Pedidos
-- Operações
+> ## Tools
+<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" /></p>
 
-**Stack:** Next.js • Node.js • SQLite/PostgreSQL • PWA
-
-</td>
-
-<td width="50%">
-
-### 🤖 ATAflow IA
-
-Sistema para automatizar a criação e organização de atas de reuniões utilizando inteligência artificial.
-
-**Stack:** Next.js • AI • APIs • Database
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🖋️ TattooFlow
-
-Sistema de gerenciamento desenvolvido para estúdios de tatuagem.
-
-**Stack:** Next.js • Supabase • PostgreSQL
-
-</td>
-
-<td width="50%">
-
-### 🏢 Orqium
-
-Soluções de software, automação e produtos digitais para empresas.
-
-> **Automatize, economize e lucre.**
-
-</td>
-
-</tr>
-</table>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Neve77&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neve77&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Top Languages"/>
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Neve77&theme=github-dark-blue&hide_border=true" alt="GitHub Contribution Streak"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
+## 🔗 Connect with Me
+<p align="center"><a href="https://www.linkedin.com/in/your-handle" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:you@example.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Neve77/Neve77/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Neve77/Neve77/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/Neve77/Neve77/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-</div>
-
----
-
-## 📫 Connect
-
 <div align="center">
-
-<a href="https://github.com/Neve77">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<a href="https://www.linkedin.com/in/igor-mello-97b2b02a7/">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
+  <!---->
 </div>
 
----
-
-<div align="center">
-
-### 💻 Building. Learning. Shipping.
-
-> Code is never finished. It only becomes better over time.
-
-</div>
+<p align="center"><sub>igor(Neve) ribeiro de mello · <a href="https://www.gitskins.com/readme-generator?template=community-creative-dev-rt3x">creative dev</a> template by <a href="https://www.gitskins.com/creators/himanshu201031">@himanshu201031</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
